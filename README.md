@@ -12,7 +12,7 @@
 
 **Building robust backends with Laravel & Python** | **Cross-platform mobile with Flutter**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Building+software+people+actually+use&pause=1000&color=F70000&width=435&lines=Features+are+temporary.+Architecture+is+remembered.+Performance+is+noticed.+Reliability+is+expected.++Build+accordingly.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=016D25&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Features+are+temporary.+;+Architecture+is+remembered.;+Performance+is+noticed.;+Reliability+is+expected.+;+Build+accordingly.)](https://git.io/typing-svg)
 
 </div>
 
