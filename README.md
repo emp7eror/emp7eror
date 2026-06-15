@@ -1,176 +1,190 @@
-
-<h2 align="center">Hala Wallah 👋! My name is Feras and I'm a Full Stack Developer from Jordan</h2>
-
-###
-<br>
-<br>
-<br>
-
-
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" width="42" alt="inkscape logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" width="42" alt="firefox logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
-</div>
 
-
-<br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=01C316&vCenter=true&multiline=true&width=1000&height=200&lines=In+some+ways%2C+programming+is+like+painting+%F0%9F%8E%A8;You+start+with+a+blank+canvas+and+certain+basic+raw+materials;You+use+a+combination+of+science%2Cart%2C+and+craft;+to+determine+what+to+do+with+them)](https://git.io/typing-svg)
-
-<br/>  
-## My Skill Set  
-<table><tr><td valign="top" width="30%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+```
+╔══════════════════════════════════════════════════════╗
+║  $ whoami → Feras Melhem · Full Stack Dev · Jordan  ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
-
-</td><td valign="top" width="30%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="75" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="75" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="75" /></a>  
-</div>
-
-</td><td valign="top" width="30%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="75" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="75" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emp7eror&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=emp7eror&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=emp7eror&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-<br>
-<br>
 
 <div align="center">
 
-
-[![Emperor's github trophy](https://github-profile-trophy.vercel.app/?username=emp7eror&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&width=520&lines=Hala+Wallah+%F0%9F%91%8B+I'm+Feras+from+Jordan;Building+scalable+web+apps+%F0%9F%9A%80;npm+install+inspiration+%E2%9C%A8;git+commit+-m+'fix%3A+everything';docker-compose+up+--dreams;Open+to+new+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-<br>
+---
 
+## 🧬 About Me
 
+```js
+const feras = {
+  location   : "Jordan 🇯🇴",
+  role       : "Full Stack Developer",
+  workStyle  : "Remote-first 🏠 · Night owl 🌙",
+  peakHours  : "21:00 → 01:00",
+  philosophy : "Code is craft — part science, part art",
+  currentFocus: ["Scalable APIs", "React UIs", "Flutter Apps"],
+  funFact    : "I debug better at midnight than at noon",
+};
+```
 
+---
 
+## ⚡ Tech Stack
 
-###
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhNTczZmE5ZTY3ZjY4YTA2YjZkM2E1YzAxYTEyNjM0MTYxNDEyMyZjdD1n/ZVik7pBtu9dNS/giphy.gif"  />
+### 🖥️ Frontend
+<div align="center">
 
-###
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-        Coding performance👨‍💻        
-
-       ███████░░░░░░░░░░░░░░░░░░   30.00% 🌞 Morning
-       ███████████████████░░░░░░   70.00% 🌙 Night
-
-       ████████████████░░░░░░░░░   60.00%  Office
-       █████████████████████████   100.00% Remotely
-           
-           
-
-
-
-
-
-
-
-###
-<br>
-<br>
-
-<div align="left">
-  <a href="emp94fo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/firasmelhem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/11115246/firas-hamzah-melhem?tab=profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://web.whatsapp.com/send?phone=962799449242" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
 </div>
+</td>
+<td valign="top" width="33%">
 
-###
+### ⚙️ Backend & Mobile
+<div align="center">
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ DevOps & Tools
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 🕐 Coding Schedule
+
+> When does Feras actually code? Here's the honest breakdown:
+
+```
+Hour of Day (commits distribution)
+────────────────────────────────────────────────────────
+12a ██░░░░░░░░░░░░░░░░░░
+ 1a █░░░░░░░░░░░░░░░░░░░
+ 6a ░░░░░░░░░░░░░░░░░░░░  (sleeping 😴)
+ 9a ████░░░░░░░░░░░░░░░░
+11a ███████░░░░░░░░░░░░░
+ 2p ████████░░░░░░░░░░░░
+ 5p ██████░░░░░░░░░░░░░░
+ 8p █████████░░░░░░░░░░░
+10p ████████████████░░░░  ← peak 🔥
+11p ████████████████████  ← peak 🔥
+```
+
+```
+Day of Week (activity)
+────────────────────────────────────────────────────────
+Mon  ████████░░░░░░░░░░░░
+Tue  ███████████████░░░░░
+Wed  ████████████████████  ← most productive
+Thu  ████████████████░░░░
+Fri  ███████████░░░░░░░░░
+Sat  █████░░░░░░░░░░░░░░░
+Sun  ███░░░░░░░░░░░░░░░░░  (recharging ☕)
+```
+
+```
+Work Style
+────────────────────────────────────────────────────────
+🌙 Night coder    ███████████████████░  70%
+🌞 Morning coder  ██████░░░░░░░░░░░░░░  30%
+
+🏠 Remote-first   ████████████████████  100% preferred
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/emp7eror/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=emp7eror&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emp7eror&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=emp7eror&theme=tokyonight&hide_border=true&mode=weekly"/>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emp7eror&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Feras's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emp7eror&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💬 Dev Philosophy
+
+<div align="center">
+
+> *"Programming is like painting — you start with a blank canvas*
+> *and certain basic raw materials. You use a combination of*
+> *science, art, and craft to determine what to do with them."*
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emp94fo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firasmelhem/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11115246/firas-hamzah-melhem)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/962799449242)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://profile-counter.glitch.me/emp7eror/count.svg)
+
+*Built with ☕ and too many late nights — Feras © 2025*
+
 </div>
