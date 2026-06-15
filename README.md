@@ -10,9 +10,9 @@
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-**Building robust backends with Laravel & Python** | **Cross-platform mobile with Flutter** | **70% night coding** | **100% remote-first**
+**Building robust backends with Laravel & Python** | **Cross-platform mobile with Flutter**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF2D20&width=600&lines=Laravel+%2B+Python+%3D+Production+Code+%F0%9F%9A%80;Flutter+apps+that+scale+%F0%9F%93%B1;Building+APIs+that+developers+love+%E2%9C%A8;Clean+code%2C+clean+architecture;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Building+software+people+actually+use&pause=1000&color=F70000&width=435&lines=Features+are+temporary.+Architecture+is+remembered.+Performance+is+noticed.+Reliability+is+expected.++Build+accordingly.)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +28,6 @@ class Feras {
     public $location = "Ar Ramthā, Irbid, Jordan 🇯🇴";
     public $focus = ["Laravel APIs", "Python Backends", "Flutter Mobile"];
     public $specialization = ["REST APIs", "Database Design", "Performance", "Architecture"];
-    public $peakHours = "21:00 → 01:00 (UTC+3)";
     public $workStyle = ["Remote-first", "Async-friendly", "Collaborative"];
     
     public function philosophy() {
@@ -169,33 +168,6 @@ I specialize in building **robust, scalable backend systems** and **native mobil
 </div>
 
 ---
-
-## 🌙 My Development Patterns
-
-> When do I code best? How do I prefer to work? Here's the real breakdown.
-
-```
-Activity by Time of Day
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌞 Morning (06:00-12:00)  ██████░░░░░░░░░░░░░░░░ 30%
-🌙 Night   (21:00-01:00)  ███████████████████░░░░ 70%
-
-Productivity by Day of Week
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Monday    ███████░░░░░░░░░░░░░░  35%
-Tuesday   ████████████████░░░░░  80%  ⭐ Peak
-Wednesday ████████████████████░  100% ⭐ Peak
-Thursday  ████████████████░░░░░  80%  ⭐ Peak
-Friday    ██████████░░░░░░░░░░░  50%
-Saturday  ████░░░░░░░░░░░░░░░░░  20%
-Sunday    ██░░░░░░░░░░░░░░░░░░░  10%  (Rest mode)
-
-Work Environment & Timezone
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏠 Remote     ████████████████████ 100% (Always)
-⏰ Timezone    UTC+3 (Egypt/Jordan Standard Time)
-📍 Location    Ar Ramthā, Irbid, Jordan
-```
 
 **What this means for collaboration:**
 - ✅ Async-first communication (fully documented)
